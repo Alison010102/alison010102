@@ -6,6 +6,15 @@ Me chamo Alison, tenho 23 anos e sou natural de Fortaleza/Ce.
 Atualmente estou cursando ciências da computação na Estácio.
 Sou fascinado por tecnologia e programação, onde compartilho meus conhecimentos no linkedin "[Alison Alves](https://www.linkedin.com/in/alison-alves-6a8382330/)" e aqui, no github "[alison010102](https://github.com/Alison010102)"
 
+### sobre mim:
+
+🎓 **Estudante de Ciência da Computação**  
+⚡ **Facilidade em aprender**  
+💡 **Apaixonado por tecnologia**  
+🛠️ **Desenvolvedor FullStack**  
+🧠 **Interesse em algoritmos e estrutura de dados**  
+🧱 **Aprendendo sobre arquitetura de sistemas e boas práticas de projeto**
+
 <p align="left">
     <a href="https://www.linkedin.com/in/alison-alves-6a8382330/" target="_blank">
         <img 
