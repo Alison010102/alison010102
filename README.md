@@ -20,7 +20,8 @@ Sou fascinado por tecnologia e programação, onde compartilho meus conhecimento
         />
     </a>
 </p>
-    ### 🤖 Linguagens e Tecnologias
+
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
