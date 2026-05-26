@@ -2,7 +2,7 @@
 
 `Desenvolvedor FullStack`
 
-Me chamo Alison, tenho 23 anos e sou natural de Fortaleza/CE.  
+Me chamo Alison, tenho 24 anos e sou natural de Fortaleza/CE.  
 Sou estudante de Ciência da Computação pela Estácio e apaixonado por tecnologia.  
 Compartilho meus aprendizados no LinkedIn e aqui no GitHub.  
 
